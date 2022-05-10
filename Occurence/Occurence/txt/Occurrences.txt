@@ -1,0 +1,2 @@
+Les Occurrences demander : 
+w = 187
